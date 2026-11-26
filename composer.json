@@ -1,0 +1,22 @@
+{
+    "name": "hpelitebook/crud-clase",
+    "description": "ultimo crud",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "safouane el ouakili",
+            "email": "safouanelouakili13@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.8",
+        "nesbot/carbon": "^3.15",
+        "fakerphp/faker": "*"
+    }
+}
